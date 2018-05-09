@@ -1,11 +1,11 @@
 # Site settings
-title: Ali Sinan Köksal
-email: koksal@cs.berkeley.edu
-description: "Ali Sinan Köksal, PhD student in Computer Science at UC Berkeley"
+title: Emrah Bostan
+email: bostan@berkeley.edu
+description: "Emrah Bostan, UC Berkeley"
 baseurl: ""
 url: "https://emrahbostan.com/"
 
-analyticsID: "UA-25937299-1"
+analyticsID: "UA-25317383-1"
 
 # Build settings
 markdown: kramdown
