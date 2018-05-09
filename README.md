@@ -1,7 +1,5 @@
 # About
 
-[Jekyll](http://jekyllrb.com/) sources for [my academic website](http://www.cs.berkeley.edu/~koksal/).
-
 # Dependencies
 
 * [npm](https://www.npmjs.org/)
