@@ -3,36 +3,30 @@ layout: default
 ---
 
 
-I'm a: candidate in computer science at [UC Berkeley], advised by [Prof.
-Ras Bodik][bodik] and [Prof. Nir Yosef][yosef]. I'm currently living in
-Seattle, visiting the [PLSE lab][plse] at the [University of Washington][uw].
-I'm interested in programming languages, program synthesis, compilers, machine
-learning, and software engineering. 
+I'm a post-doctoral researcher in the [Computational Imaging Lab][cilab] at [UC
+Berkeley] sponsored by [Laura Waller][laura]. I'm also affiliated with the
+[Berkeley Artificial Intelligence Research Laboratory] [bair] and the [Berkeley
+Center for Computational Imaging] [bcci].
 
-For my dissertation work, I'm developing program synthesis methods and tools as
-applied to systems biology.
 
-I have completed my B.Sc. and M.Sc. degrees at [EPFL], where my advisor was
-[Prof. Viktor Kuncak][kuncak]. For my M.Sc. thesis, I developed [Kaplan], an
-extension of Scala that supports constraint programming.
+In broad terms, my research interests are at the intersection of signal
+processing, optical physics, and computer science, with applications in
+bioimaging and physical sciences. I'm particularly interested in image
+reconstruction algorithms, compressive imaging,  non-linear and non-convex
+optimization, machine learning theory, and statistical inference. 
 
-In Summer 2016, I was an intern at [Sift Science], and I worked on improving
-and accurately evaluating machine learning algorithms for fraud detection, as
-well as developing tools for efficiently summarizing customer data. In Summer
-2013, I was a research intern at [Microsoft Research, Cambridge][msr
-cambridge], and I worked on developing algorithms for signaling pathway
-discovery from high-throughput data.
 
-My résumé can be found [here][resume].
+I have obtained my M.Sc. and Ph.D. degrees at [EPFL] advised by [Michael
+Unser][michael]. 
+
+My CV can be found [here][resume].
 
 [EPFL]: http://www.epfl.ch
+[cilab]: http://laurawaller.com 
+[bair]: http://bair.berkeley.edu/
+[bcci]: http://www.comp-imaging.berkeley.edu/
 [UC Berkeley]: http://www.eecs.berkeley.edu
-[Sift Science]: https://siftscience.com
-[msr cambridge]: https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/
-[bodik]: http://homes.cs.washington.edu/~bodik
-[yosef]: http://www.cs.berkeley.edu/~niryosef
-[kuncak]: http://lara.epfl.ch/~kuncak
+[laura]: https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html
+[michael]: http://bigwww.epfl.ch/unser/index.html
 [resume]: resume.pdf
-[plse]: http://uwplse.org/
-[uw]: https://www.cs.washington.edu/
-[kaplan]: papers/KoksalETAL12ConstraintsAsControl.pdf
+
