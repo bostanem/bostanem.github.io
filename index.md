@@ -5,7 +5,7 @@ layout: default
 
 I'm a post-doctoral researcher in the [Computational Imaging Lab][cilab] at [UC
 Berkeley] sponsored by [Laura Waller][laura]. I'm also affiliated with the
-[Berkeley Artificial Intelligence Research Laboratory] [bair] and the [Berkeley
+[Berkeley Artificial Intelligence Research Laboratory] [bair] and [Berkeley
 Center for Computational Imaging] [bcci].
 
 
@@ -19,7 +19,7 @@ optimization, machine learning theory, and statistical inference.
 I have obtained my M.Sc. and Ph.D. degrees at [EPFL] advised by [Michael
 Unser][michael]. 
 
-My CV can be found [here][resume].
+You can check  my publications [here][scholar] and my CV can be found [here][resume].
 
 [EPFL]: http://www.epfl.ch
 [cilab]: http://laurawaller.com 
@@ -28,5 +28,6 @@ My CV can be found [here][resume].
 [UC Berkeley]: http://www.eecs.berkeley.edu
 [laura]: https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html
 [michael]: http://bigwww.epfl.ch/unser/index.html
+[scholar]: https://scholar.google.com/citations?user=chP1Vc0AAAAJ&hl=en
 [resume]: resume.pdf
 
