@@ -16,8 +16,8 @@ In broad terms, my research combines optical physics, computer vision, and machi
 
 You can check  my publications [here][scholar] and my CV can be found [here][resume].
 
-[uva]: www.uva.nl
-[iins]: ivi.uva.nl
+[uva]: http://www.uva.nl
+[iins]: httpL//ivi.uva.nl
 [EPFL]: http://www.epfl.ch
 [cilab]: http://laurawaller.com 
 [bair]: http://bair.berkeley.edu/
