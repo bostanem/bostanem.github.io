@@ -3,9 +3,9 @@ layout: default
 ---
 I am a research scientist at [ams AG International][ams]. I work on the design of next-generation 3D imaging/sensing systems. My expertise combines optical physics, computer vision, and machine learning to achieve seamless integration of hardware and software elements for reconstructing and understanding 3D scenes.
 
-Before joining ams in 2020, I was an Assistant Professor at the [Informatics Institute][iins] of the [University of Amsterdam][uva] (UvA). Before that, I was a post-doctoral researcher in the [Computational Imaging Lab][cilab] at [UC Berkeley]. I was also affiliated with the
+Before joining ams in 2020, I was an Assistant Professor at the [Informatics Institute][iins] of the [University of Amsterdam][uva] (UvA). Between 2016 and 2019, I was a post-doctoral researcher in the [Computational Imaging Lab][cilab] at [UC Berkeley]. I was also affiliated with the
 [Berkeley Artificial Intelligence Research Laboratory] [bair] and [Berkeley
-Center for Computational Imaging] [bcci] during my time in Berkeley. I have obtained my M.Sc. and Ph.D. degrees at [EPFL]. 
+Center for Computational Imaging] [bcci] during my time in Berkeley. I obtained my M.Sc. and Ph.D. degrees at [EPFL] in 2011 and 2016, respectively.
 
 
 For my publications, please see my [scholar][scholar] page.
