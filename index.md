@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am an image scientist at [Apple][apple] and a street [non-photographer][portfolio], allowing me to combine my vision for technical innovation with my passion for photography. As a member of the Camera Technologies Group at Apple, I work on the next-generation cameras that unlock new applications in machine-vision, mobile photography, and spatial computing. To enable the design and architecture of new camera systems with high-throughput, my technical expertise combines optical imaging, computer vision, and machine learning. 
+I am an image scientist at [Apple][apple] and a street [non-photographer][portfolio]. As a member of the Camera Technologies Group at Apple, I get to combine my vision for technical innovation with my passion for photography. I work on the next-generation cameras that unlock new applications in machine-vision, mobile photography, and spatial computing. To enable the design and architecture of new camera systems with high-throughput, my technical expertise combines optical imaging, computer vision, and machine learning. 
 
 In another life, I was an academic and worked as a Tenure-Track Assistant Professor at the [Informatics Institute][iins] of the [University of Amsterdam][uva]. Before that, I was a post-doctoral fellow in the [Computational Imaging Lab][cilab] at [UC Berkeley]. During my time in Berkeley, I was co-affiliated with the
 [Berkeley Artificial Intelligence Research Laboratory] [bair] and [Berkeley
