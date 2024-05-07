@@ -1,14 +1,11 @@
 ---
 layout: default
 ---
-I am an image scientist at [Apple][apple] and a street [non-photographer][portfolio]. As a member of the Camera Technologies group, I work on the next-generation computational cameras that enable both machine-vision-driven and photographic experiences, allowing me to combine my vision for technical innovation with my passion for photography. My expertise spans optical design, computer vision, and machine learning to achieve such frameworks with high-throughput so that they are used in the design and architecture of new products.
+I am an image scientist at [Apple][apple] and a street [non-photographer][portfolio], allowing me to combine my vision for technical innovation with my passion for photography. As a member of the Camera Technologies Group at Apple, I work on the next-generation cameras that unlock new applications in machine-vision, mobile photography, and spatial computing. To enable the design and architecture of new camera systems with high-throughput, my technical expertise combines optical imaging, computer vision, and machine learning. 
 
-In another life, I was an academic and worked as a Tenure-Track Assistant Professor at the [Informatics Institute][iins] at the [University of Amsterdam][uva]. Before that, I was a post-doctoral fellow in the [Computational Imaging Lab][cilab] at [UC Berkeley]. During my time in Berkeley, I was co-affiliated with the
+In another life, I was an academic and worked as a Tenure-Track Assistant Professor at the [Informatics Institute][iins] of the [University of Amsterdam][uva]. Before that, I was a post-doctoral fellow in the [Computational Imaging Lab][cilab] at [UC Berkeley]. During my time in Berkeley, I was co-affiliated with the
 [Berkeley Artificial Intelligence Research Laboratory] [bair] and [Berkeley
-Center for Computational Imaging] [bcci]. I obtained my M.Sc. and Ph.D. degrees at [EPFL] in 2011 and 2016, respectively.
-
-
-For my publications, please see my [scholar][scholar] page.
+Center for Computational Imaging] [bcci]. I obtained my M.Sc. and Ph.D. degrees at [EPFL] in 2011 and 2016, respectively. As a souvenir of this era, I keep my [scholar][scholar] page.
 
 [apple]: https://www.apple.com
 [portfolio]: https://www.flickr.com/photos/mercury_fur
