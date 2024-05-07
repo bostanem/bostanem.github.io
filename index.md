@@ -7,6 +7,7 @@ In another life, I was an academic and worked as a Tenure-Track Assistant Profes
 [Berkeley Artificial Intelligence Research Laboratory] [bair] and [Berkeley
 Center for Computational Imaging] [bcci]. I obtained my M.Sc. and Ph.D. degrees at [EPFL] in 2011 and 2016, respectively. As a souvenir of this era, I keep my [scholar][scholar] page.
 
+
 [apple]: https://www.apple.com
 [portfolio]: https://www.flickr.com/photos/mercury_fur
 [uva]: http://www.uva.nl
